@@ -1,5 +1,3 @@
-Basic login/register app which shows the weather when loggen in to dashboard.
-Since I had to take my dog to the vet today, I had some spare time and choose to make this
-
-* Added screenshot of database
-* Fixed so you get a message that you have logget out successfully
+Basic register/login app with working database.
+Checks if email is already in use, password match and password longer than 6 characters.
+Also hashes the passwords
